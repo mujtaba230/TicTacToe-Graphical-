@@ -1,0 +1,4 @@
+C:\Users\Dell\source\repos\GraphicTicTac\Debug\GraphicTicTac.vcxproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\GraphicTicTac\Debug\GraphicTicTac.MyForm1.resources
+C:\Users\Dell\source\repos\GraphicTicTac\Debug\GraphicTicTac.vcxproj.GenerateResource.cache
+C:\Users\Dell\source\repos\GraphicTicTac\Debug\GraphicTicTac.exe
